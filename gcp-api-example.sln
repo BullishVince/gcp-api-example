@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirestoreApiExample", "Api\FirestoreApiExample.csproj", "{1C5F8D56-AFFC-434B-951C-50C861F9BC5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GcpApiExample", "Api\GcpApiExample.csproj", "{0DB3F30F-8AA0-473D-90C7-033966A3866B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1C5F8D56-AFFC-434B-951C-50C861F9BC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1C5F8D56-AFFC-434B-951C-50C861F9BC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1C5F8D56-AFFC-434B-951C-50C861F9BC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1C5F8D56-AFFC-434B-951C-50C861F9BC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB3F30F-8AA0-473D-90C7-033966A3866B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB3F30F-8AA0-473D-90C7-033966A3866B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB3F30F-8AA0-473D-90C7-033966A3866B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB3F30F-8AA0-473D-90C7-033966A3866B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

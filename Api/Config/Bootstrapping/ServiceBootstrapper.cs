@@ -21,6 +21,7 @@ namespace Api.Config.Bootstrapping
             ));
 
             services.AddScoped<IFirestoreService, FirestoreService>();
+            services.AddScoped<IAuthService, AuthService>();
 
             return services;
         }
