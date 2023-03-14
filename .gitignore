@@ -1,0 +1,8 @@
+**obj**
+**/bin/**
+**.ignore**
+.vscode**
+.vs**
+Api/Properties*
+**appsettings.Development.json
+firestore-cert.json
